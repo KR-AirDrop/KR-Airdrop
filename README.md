@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Backjoon</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop)](https://github.com/KR-Airdrop/github-readme-stats)
