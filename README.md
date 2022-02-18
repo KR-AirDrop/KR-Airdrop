@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h1>Backjoon</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop)](https://github.com/KR-Airdrop/github-readme-stats)
+[![KR-Airdrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop)]
