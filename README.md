@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Github stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop)
+	
+
+# Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choish4682)](https://solved.ac/choish4682)
