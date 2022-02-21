@@ -1,4 +1,4 @@
-### 성장하는 개발자 SeongHyuk Choi 👋
+#### 성장하는 개발자 SeongHyuk Choi 👋
 
 <!--
 **KR-AirDrop/KR-Airdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
