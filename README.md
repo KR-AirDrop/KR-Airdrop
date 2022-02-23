@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 성장하는 개발자 SeongHyuk Choi 👋
+#### 성장하는 개발자 SeongHyuk Choi
 
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/>	<!-- HTML -->
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>		<!-- CSS -->
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat&logo=JavaScript&logoColor=white"/>	<!-- Javascript -->
+<img src="https://img.shields.io/badge/Node.js-yellowgreen?style=flat&logo=Node.js&logoColor=white"/>	<!-- Node.js -->
 <img src="https://img.shields.io/badge/C-9cf?style=flat&logo=C&logoColor=white"/>	<!-- C -->
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>	<!-- GitHub -->
 
-<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
 
