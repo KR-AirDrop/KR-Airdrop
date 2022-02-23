@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=성장하는 개발자 SeongHyuk Choi&fontSize=50&fontColor=333333&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=함께 일하는게 즐거운 개발자&fontSize=45&fontColor=333333&fontAlignY=40" />
 	
 ![모코코신나](https://user-images.githubusercontent.com/71241711/155310721-bee91de6-8b53-4e61-9ea0-313a86c5e220.gif)
 
