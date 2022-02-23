@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=성장하는 개발자 SeongHyuk Choi&fontSize=50&fontColor=333333&fontAlignY=40" />
 	
+![모코코신나](https://user-images.githubusercontent.com/71241711/155310721-bee91de6-8b53-4e61-9ea0-313a86c5e220.gif)
+
 <h3> 🛠 Tech Stack </h3>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>	
