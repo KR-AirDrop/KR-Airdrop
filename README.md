@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 -->
 #### 성장하는 개발자 SeongHyuk Choi 👋
 
-<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/> <!-- HTML -->
-<img src="https://img.shields.io/badge/CSS-blue?style=plastic&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/>	<!-- HTML -->
+
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>		<!-- CSS -->
+
+<img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>	<!-- Javascript -->
+
+<img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/>	<!-- C -->
+
+
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
 
