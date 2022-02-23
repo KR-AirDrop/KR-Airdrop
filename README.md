@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=성장하는 개발자 SeongHyuk Choi&fontSize=50&fontColor=E2E4E4&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=성장하는 개발자 SeongHyuk Choi&fontSize=50&fontColor=5F5F5F&fontAlignY=40" />
 	
 <h3> 🛠 Tech Stack </h3>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/>
