@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### 성장하는 개발자 SeongHyuk Choi 👋
 
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/> <!-- HTML -->
-<img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=plastic&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/>
