@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 #### 성장하는 개발자 SeongHyuk Choi 👋
 
-<img src="https://img.shields.io/badge/lightgrey?style=flat-square&logo=#E34F26&logoColor=white"/>
+<img src="https://img.shields.io/badge/lightgrey?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 
 
 # Github stats
