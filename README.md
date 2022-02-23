@@ -1,4 +1,3 @@
-#### 성장하는 개발자 SeongHyuk Choi 👋
 
 <!--
 **KR-AirDrop/KR-Airdrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 성장하는 개발자 SeongHyuk Choi 👋
+
+<img src="https://img.shields.io/badge/lightgrey?style=flat-square&logo=#E34F26&logoColor=white"/></a>&nbsp 
+
 
 # Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
