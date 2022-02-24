@@ -9,14 +9,22 @@
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-yellowgreen?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-9cf?style=flat&logo=C&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
+
 
 <h3> ✅ My blog </h3>
 <a href="https://seonchoi.tistory.com/"><img src="https://img.shields.io/badge/개발자로 살아남기-brightgreen?style=flat&logo=Storyblok&logoColor=white&link=https://seonchoi.tistory.com/"/>
 
+<h3> ✉ E-Mail </h3>
+	
+<a href="https://mail.naver.com/write/popup?srvid=note&to=choish4682@naver.com"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat&logo=Naver&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+
 
 <h3> Github stats </h3>
-	
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
 	
 <h3> Baekjoon </h3>
