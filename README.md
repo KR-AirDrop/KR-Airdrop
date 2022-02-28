@@ -22,6 +22,10 @@
 <a href="https://mail.naver.com/write/popup?srvid=note&to=choish4682@naver.com"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat&logo=Naver&logoColor=white"/>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
+<h3> Toy project <h3>
+<h4> 1. Market Web clone coding <h4>
+URL : https://hargi-market-web.vercel.app/
+Github page : https://github.com/KR-AirDrop/hargi_market_web.git / https://github.com/KR-AirDrop/hargi_market_server.git
 
 <h3> Github stats </h3>
 
