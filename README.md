@@ -15,7 +15,7 @@
 
 
 <h3> ✅ My blog </h3>
-<a href="https://seonchoi.tistory.com/"><img src="https://img.shields.io/badge/개발자로 살아남기-brightgreen?style=flat&logo=Storyblok&logoColor=white&link=https://seonchoi.tistory.com/"/>
+<a href="https://seonchoi.tistory.com/"><img src="https://img.shields.io/badge/개발자로 살아남기-brightgreen?style=flat&logo=Storyblok&logoColor=white&link=https://seonchoi.tistory.com/"/></a>
 
 <h3> ✉ Email </h3>
 
@@ -23,11 +23,11 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
 <h3> Toy project <h3>
-	
 <h4> 1. Market Web clone coding <h4>
 	
-Market Page : https://hargi-market-web.vercel.app/ <br>
-Github page : https://github.com/KR-AirDrop/hargi_market_web.git / https://github.com/KR-AirDrop/hargi_market_server.git
+<a href="https://hargi-market-web.vercel.app/">Market Page</a>
+	
+Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</a> / <a href="https://github.com/KR-AirDrop/hargi_market_server.git">Server</a>
 
 <h3> Github stats </h3>
 
