@@ -40,8 +40,8 @@ Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
 	
-<h3> Baekjoon </h3>
+<!-- <h3> Baekjoon </h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choish4682)](https://solved.ac/choish4682)
-
+ -->
 </div>
