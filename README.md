@@ -20,16 +20,21 @@
 <h3> ✉ Email </h3>
 
 <a href="https://mail.naver.com/write/popup?srvid=note&to=choish4682@naver.com"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat&logo=Naver&logoColor=white"/>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-
-<h3> 🐶 Toy project <h3>
-<h4> 1. Market Web clone coding <h4>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 	
-<a href="https://hargi-market-web.vercel.app/">Market Page</a>
-		
-Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</a> / <a href="https://github.com/KR-AirDrop/hargi_market_server.git">Server</a>
+	
+<h3> 🐶 Toy project 1. Todo App <h3>
+	
+<h4> node.js와 mongoDB, Bootstrap을 이용해서 만든 Todo App(메모장)입니다. </h4>
 
-<h4> 2. To do web <h4>
+<a href="https://todo-sh-343200.du.r.appspot.com/">SeongHyuk's Todo App</a><br/>
+<a href="https://github.com/KR-AirDrop/Todo_SH">Github page</a>
+
+
+<h3> 🐶 Toy project 2. Market Web clone coding </h3>
+
+<a href="https://hargi-market-web.vercel.app/">Market Page</a><br/>
+Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</a> / <a href="https://github.com/KR-AirDrop/hargi_market_server.git">Server</a>
 
 <h3> Github stats </h3>
 
