@@ -23,7 +23,7 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 	
 	
-<h3> 🐶 Toy project 1. Todo App <h3>
+<!-- <h3> 🐶 Toy project 1. Todo App <h3>
 	
 <h4> node.js와 mongoDB, Bootstrap을 이용해서 만든 Todo App(메모장)입니다. </h4>
 
@@ -35,7 +35,7 @@
 
 <a href="https://hargi-market-web.vercel.app/">Market Page</a><br/>
 Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</a> / <a href="https://github.com/KR-AirDrop/hargi_market_server.git">Server</a>
-
+ -->
 <h3> Github stats </h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
