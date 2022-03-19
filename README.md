@@ -20,14 +20,13 @@
 
 <a href="https://mail.naver.com/write/popup?srvid=note&to=choish4682@naver.com"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat&logo=Naver&logoColor=white"/>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-	
-	
-<h3> Github stats </h3>
+		
+<!-- <h3> Github stats </h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
 	
-<!-- <h3> Baekjoon </h3>
+ <h3> Baekjoon </h3>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choish4682)](https://solved.ac/choish4682)
- -->
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choish4682)](https://solved.ac/choish4682) -->
+ 
+</div> 
