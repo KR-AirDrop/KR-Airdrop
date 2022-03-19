@@ -1,8 +1,6 @@
 <div align="center">
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=함께 일하는게 즐거운 개발자&fontSize=45&fontColor=333333&fontAlignY=40" />
-	
-![모코코신나](https://user-images.githubusercontent.com/71241711/155310721-bee91de6-8b53-4e61-9ea0-313a86c5e220.gif)
- -->
+
+
 <h3> 🛠 Tech Stack </h3>
 <img src="https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>	
@@ -24,19 +22,6 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seonchoi4682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 	
 	
-<!-- <h3> 🐶 Toy project 1. Todo App <h3>
-	
-<h4> node.js와 mongoDB, Bootstrap을 이용해서 만든 Todo App(메모장)입니다. </h4>
-
-<a href="https://todo-sh-343200.du.r.appspot.com/">SeongHyuk's Todo App</a><br/>
-<a href="https://github.com/KR-AirDrop/Todo_SH">Github page</a>
-
-
-<h3> 🐶 Toy project 2. Market Web clone coding </h3>
-
-<a href="https://hargi-market-web.vercel.app/">Market Page</a><br/>
-Github page : <a href="https://github.com/KR-AirDrop/hargi_market_web.git">Web</a> / <a href="https://github.com/KR-AirDrop/hargi_market_server.git">Server</a>
- -->
 <h3> Github stats </h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KR-Airdrop&theme=github_dark&show_icons=true)
